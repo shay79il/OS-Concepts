@@ -1,1 +1,1 @@
-# perating system concepts training 
+# Operating system concepts training 
